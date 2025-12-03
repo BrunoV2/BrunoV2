@@ -4,7 +4,13 @@
   
 [this is for the picture]: #	
 <div id="header">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN6OTlvbml0MWxxdnBzMTU2azN5Mml1b3gzNnB6ZXZ6NjRmYWI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAuA24AYr9rXXTcSPc/giphy.gif" width="300"/>
+  
+<img width="840" height="859" alt="image" src="https://github.com/user-attachments/assets/9150303c-554e-47d8-8f20-efde0c271ece" />
+
+
+
+
+
 </div>
   
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
