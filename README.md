@@ -4,7 +4,7 @@
   
 [this is for the picture]: #	
 <div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN6OTlvbml0MWxxdnBzMTU2azN5Mml1b3gzNnB6ZXZ6NjRmYWI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kAuA24AYr9rXXTcSPc/giphy.gif" width="300"/>
 </div>
   
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
@@ -25,7 +25,7 @@ My name is **Bruno López Pérez** and welcome to my profile.
 
 I'm currently studying a VET program in Microcomputer Systems and Networks.
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF5MjNsdm8xcmJwdmRnYWFzaXBpZXgwMmRwZzZidHpyd3B0bXY3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aX0zSULs5bjTpu/giphy.gif" width="600" />
   
 
 
@@ -33,8 +33,16 @@ I'm currently studying a VET program in Microcomputer Systems and Networks.
 
 [i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoV2_private=true&show_icons=true&theme=dark)](https://github.com/Kingsky1t/github-readme-stats)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoV2_icons=true&theme=dark)
+Programming **language codes** I use :
+
+-RUBY 
+<img width="17" height="17" alt="RUBY" src="https://github.com/user-attachments/assets/18012392-28a4-4f9c-b9c4-5751c7bb2313" />
+
+
+-PYTHON 
+<img width="20" height="20" alt="RUBY" src="https://github.com/user-attachments/assets/2e75765e-c42a-4983-92d4-5e56a0d46a9d" />
+
+
 
  
