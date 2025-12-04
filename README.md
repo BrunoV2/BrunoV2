@@ -5,7 +5,8 @@
 [this is for the picture]: #	
 <div id="header">
   
-<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
+<img width="100" height="600" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" /> <img width="70" height="70" alt="image-Photoroom" src="https://github.com/user-attachments/assets/51e8c620-1764-4c6c-8164-41dfd5cd90c2" />
+
 
 
 
@@ -34,7 +35,6 @@ I'm currently studying a VET program in Microcomputer Systems and Networks.
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF5MjNsdm8xcmJwdmRnYWFzaXBpZXgwMmRwZzZidHpyd3B0bXY3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aX0zSULs5bjTpu/giphy.gif" width="600" />
   
-
 
 ### :bar_chart: GitHub stats
 
