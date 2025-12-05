@@ -51,5 +51,10 @@ Programming **language codes** I use :
 <img width="20" height="20" alt="RUBY" src="https://github.com/user-attachments/assets/2e75765e-c42a-4983-92d4-5e56a0d46a9d" />
 
 
+-HTML
+<img width="40" height="24" alt="image" src="https://github.com/user-attachments/assets/9a809738-f14b-4ed0-9282-708df7356ab4" />
 
- 
+
+-CSS
+ <img width="40" height="20" alt="image" src="https://github.com/user-attachments/assets/206b4f27-2d46-4e9f-9385-1e48d7cd6264" />
+
