@@ -41,20 +41,32 @@ I'm currently studying a VET program in Microcomputer Systems and Networks.
 [i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
 
 
-Programming **language codes** I use :
-
--RUBY 
-<img width="17" height="17" alt="RUBY" src="https://github.com/user-attachments/assets/18012392-28a4-4f9c-b9c4-5751c7bb2313" />
+<h3>Programming language codes I use : <h3/>
 
 
--PYTHON 
-<img width="20" height="20" alt="RUBY" src="https://github.com/user-attachments/assets/2e75765e-c42a-4983-92d4-5e56a0d46a9d" />
+<h4>-RUBY
+<img width="17" height="17" alt="RUBY" src="https://github.com/user-attachments/assets/18012392-28a4-4f9c-b9c4-5751c7bb2313" /> </h4>
 
 
--HTML
-<img width="40" height="24" alt="image" src="https://github.com/user-attachments/assets/9a809738-f14b-4ed0-9282-708df7356ab4" />
+<h4>-PYTHON  
+<img width="20" height="20" alt="RUBY" src="https://github.com/user-attachments/assets/2e75765e-c42a-4983-92d4-5e56a0d46a9d" /> </h4>
 
 
--CSS
- <img width="40" height="20" alt="image" src="https://github.com/user-attachments/assets/206b4f27-2d46-4e9f-9385-1e48d7cd6264" />
+<h4>-HTML
+<img width="40" height="24" alt="image" src="https://github.com/user-attachments/assets/9a809738-f14b-4ed0-9282-708df7356ab4" /></h4>
+
+
+<h4>-CSS 
+<img width="40" height="20" alt="image" src="https://github.com/user-attachments/assets/206b4f27-2d46-4e9f-9385-1e48d7cd6264" /> </h4>
+
+
+
+<h3> Misc tools : <h3/>
+
+<h4>-Github
+<img width="40" height="26" alt="image" src="https://github.com/user-attachments/assets/d32d6e88-3fca-4664-81a0-a5f5f0eb6956" /></h4>
+
+<h4>-iCloud
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/222bee9b-47a4-4e81-a0c4-eac09acb9a52" /></h4>
+
 
