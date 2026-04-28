@@ -5,9 +5,7 @@
 [this is for the picture]: #	
 <div id="header">
   
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" /> <img width="70" height="70" alt="image-Photoroom" src="https://github.com/user-attachments/assets/51e8c620-1764-4c6c-8164-41dfd5cd90c2" />
-
-
+<img width="1600" height="500" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
 
 
 
