@@ -5,12 +5,8 @@
 [this is for the picture]: #	
 <div id="header">
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
-
-
-<img width="348" height="480" alt="image" src="https://github.com/user-attachments/assets/f82e24d1-b718-434c-b5b5-04c47a83d6fc" />
-
-
 </div>
+<br> 
   
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
 <div id="badges">
