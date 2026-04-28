@@ -7,7 +7,7 @@
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
 
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0amY1eDh0OXNzb3U5MnE5MmludHc2NXg3czY2a3RlZ3kyZXVoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMv36BprGxUAqoWc72/giphy.gif
+<img width="348" height="480" alt="image" src="https://github.com/user-attachments/assets/f82e24d1-b718-434c-b5b5-04c47a83d6fc" />
 
 
 </div>
