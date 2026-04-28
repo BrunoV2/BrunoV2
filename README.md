@@ -4,7 +4,7 @@
   
 [this is for the picture]: #	
 <div id="header">
-<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
 
 
 
