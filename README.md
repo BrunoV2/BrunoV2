@@ -5,7 +5,7 @@
 [this is for the picture]: #	
 <div id="header">
   
-<img width="1600" height="500" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f1b66d21-7850-4be8-9bf7-1cf0f03733ec" />
 
 
 
