@@ -1,6 +1,6 @@
 [I believe in center aligned 🤲]: #
 
-<div align="center">
+
   
 [this is for the picture]: #	
 <div id="header">
